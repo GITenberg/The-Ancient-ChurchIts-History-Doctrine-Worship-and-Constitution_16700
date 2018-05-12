@@ -1,0 +1,28 @@
+_repo: The-Ancient-ChurchIts-History-Doctrine-Worship-and-Constitution_16700
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Killen, W. D. (William Dool)
+    alias: Killen, William D. (William Dool)
+    birthdate: 1806
+    deathdate: 1902
+    gutenberg_agent_id: '2925'
+    url: http://www.gutenberg.org/2009/agents/2925
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+title: 'The Ancient Church: Its History, Doctrine, Worship, and Constitution'
+url: http://www.gutenberg.org/ebooks/16700
